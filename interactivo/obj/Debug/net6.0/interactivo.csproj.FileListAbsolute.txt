@@ -1,0 +1,14 @@
+D:\Users\OMEN\Desktop\platzi\c#\interactivo\bin\Debug\net6.0\interactivo.exe
+D:\Users\OMEN\Desktop\platzi\c#\interactivo\bin\Debug\net6.0\interactivo.deps.json
+D:\Users\OMEN\Desktop\platzi\c#\interactivo\bin\Debug\net6.0\interactivo.runtimeconfig.json
+D:\Users\OMEN\Desktop\platzi\c#\interactivo\bin\Debug\net6.0\interactivo.dll
+D:\Users\OMEN\Desktop\platzi\c#\interactivo\bin\Debug\net6.0\ref\interactivo.dll
+D:\Users\OMEN\Desktop\platzi\c#\interactivo\bin\Debug\net6.0\interactivo.pdb
+D:\Users\OMEN\Desktop\platzi\c#\interactivo\obj\Debug\net6.0\interactivo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\OMEN\Desktop\platzi\c#\interactivo\obj\Debug\net6.0\interactivo.AssemblyInfoInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\interactivo\obj\Debug\net6.0\interactivo.AssemblyInfo.cs
+D:\Users\OMEN\Desktop\platzi\c#\interactivo\obj\Debug\net6.0\interactivo.csproj.CoreCompileInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\interactivo\obj\Debug\net6.0\interactivo.dll
+D:\Users\OMEN\Desktop\platzi\c#\interactivo\obj\Debug\net6.0\ref\interactivo.dll
+D:\Users\OMEN\Desktop\platzi\c#\interactivo\obj\Debug\net6.0\interactivo.pdb
+D:\Users\OMEN\Desktop\platzi\c#\interactivo\obj\Debug\net6.0\interactivo.genruntimeconfig.cache

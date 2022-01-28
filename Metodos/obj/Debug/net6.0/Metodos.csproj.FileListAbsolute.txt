@@ -1,0 +1,14 @@
+D:\Users\OMEN\Desktop\platzi\c#\Metodos\bin\Debug\net6.0\Metodos.exe
+D:\Users\OMEN\Desktop\platzi\c#\Metodos\bin\Debug\net6.0\Metodos.deps.json
+D:\Users\OMEN\Desktop\platzi\c#\Metodos\bin\Debug\net6.0\Metodos.runtimeconfig.json
+D:\Users\OMEN\Desktop\platzi\c#\Metodos\bin\Debug\net6.0\Metodos.dll
+D:\Users\OMEN\Desktop\platzi\c#\Metodos\bin\Debug\net6.0\ref\Metodos.dll
+D:\Users\OMEN\Desktop\platzi\c#\Metodos\bin\Debug\net6.0\Metodos.pdb
+D:\Users\OMEN\Desktop\platzi\c#\Metodos\obj\Debug\net6.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\OMEN\Desktop\platzi\c#\Metodos\obj\Debug\net6.0\Metodos.AssemblyInfoInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\Metodos\obj\Debug\net6.0\Metodos.AssemblyInfo.cs
+D:\Users\OMEN\Desktop\platzi\c#\Metodos\obj\Debug\net6.0\Metodos.csproj.CoreCompileInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\Metodos\obj\Debug\net6.0\Metodos.dll
+D:\Users\OMEN\Desktop\platzi\c#\Metodos\obj\Debug\net6.0\ref\Metodos.dll
+D:\Users\OMEN\Desktop\platzi\c#\Metodos\obj\Debug\net6.0\Metodos.pdb
+D:\Users\OMEN\Desktop\platzi\c#\Metodos\obj\Debug\net6.0\Metodos.genruntimeconfig.cache

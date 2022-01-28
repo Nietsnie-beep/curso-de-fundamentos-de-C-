@@ -1,0 +1,14 @@
+D:\Users\OMEN\Desktop\platzi\c#\variables\bin\Debug\net6.0\variables.exe
+D:\Users\OMEN\Desktop\platzi\c#\variables\bin\Debug\net6.0\variables.deps.json
+D:\Users\OMEN\Desktop\platzi\c#\variables\bin\Debug\net6.0\variables.runtimeconfig.json
+D:\Users\OMEN\Desktop\platzi\c#\variables\bin\Debug\net6.0\variables.dll
+D:\Users\OMEN\Desktop\platzi\c#\variables\bin\Debug\net6.0\ref\variables.dll
+D:\Users\OMEN\Desktop\platzi\c#\variables\bin\Debug\net6.0\variables.pdb
+D:\Users\OMEN\Desktop\platzi\c#\variables\obj\Debug\net6.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\OMEN\Desktop\platzi\c#\variables\obj\Debug\net6.0\variables.AssemblyInfoInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\variables\obj\Debug\net6.0\variables.AssemblyInfo.cs
+D:\Users\OMEN\Desktop\platzi\c#\variables\obj\Debug\net6.0\variables.csproj.CoreCompileInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\variables\obj\Debug\net6.0\variables.dll
+D:\Users\OMEN\Desktop\platzi\c#\variables\obj\Debug\net6.0\ref\variables.dll
+D:\Users\OMEN\Desktop\platzi\c#\variables\obj\Debug\net6.0\variables.pdb
+D:\Users\OMEN\Desktop\platzi\c#\variables\obj\Debug\net6.0\variables.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Users\OMEN\Desktop\platzi\c#\listExampleProject\bin\Debug\net6.0\listExampleProject.exe
+D:\Users\OMEN\Desktop\platzi\c#\listExampleProject\bin\Debug\net6.0\listExampleProject.deps.json
+D:\Users\OMEN\Desktop\platzi\c#\listExampleProject\bin\Debug\net6.0\listExampleProject.runtimeconfig.json
+D:\Users\OMEN\Desktop\platzi\c#\listExampleProject\bin\Debug\net6.0\listExampleProject.dll
+D:\Users\OMEN\Desktop\platzi\c#\listExampleProject\bin\Debug\net6.0\ref\listExampleProject.dll
+D:\Users\OMEN\Desktop\platzi\c#\listExampleProject\bin\Debug\net6.0\listExampleProject.pdb
+D:\Users\OMEN\Desktop\platzi\c#\listExampleProject\obj\Debug\net6.0\listExampleProject.csproj.AssemblyReference.cache
+D:\Users\OMEN\Desktop\platzi\c#\listExampleProject\obj\Debug\net6.0\listExampleProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\OMEN\Desktop\platzi\c#\listExampleProject\obj\Debug\net6.0\listExampleProject.AssemblyInfoInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\listExampleProject\obj\Debug\net6.0\listExampleProject.AssemblyInfo.cs
+D:\Users\OMEN\Desktop\platzi\c#\listExampleProject\obj\Debug\net6.0\listExampleProject.csproj.CoreCompileInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\listExampleProject\obj\Debug\net6.0\listExampleProject.dll
+D:\Users\OMEN\Desktop\platzi\c#\listExampleProject\obj\Debug\net6.0\ref\listExampleProject.dll
+D:\Users\OMEN\Desktop\platzi\c#\listExampleProject\obj\Debug\net6.0\listExampleProject.pdb
+D:\Users\OMEN\Desktop\platzi\c#\listExampleProject\obj\Debug\net6.0\listExampleProject.genruntimeconfig.cache

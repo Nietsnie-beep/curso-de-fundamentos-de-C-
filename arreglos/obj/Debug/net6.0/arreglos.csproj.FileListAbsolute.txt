@@ -1,0 +1,14 @@
+D:\Users\OMEN\Desktop\platzi\c#\arreglos\obj\Debug\net6.0\arreglos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\OMEN\Desktop\platzi\c#\arreglos\obj\Debug\net6.0\arreglos.AssemblyInfoInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\arreglos\obj\Debug\net6.0\arreglos.AssemblyInfo.cs
+D:\Users\OMEN\Desktop\platzi\c#\arreglos\obj\Debug\net6.0\arreglos.csproj.CoreCompileInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\arreglos\bin\Debug\net6.0\arreglos.exe
+D:\Users\OMEN\Desktop\platzi\c#\arreglos\bin\Debug\net6.0\arreglos.deps.json
+D:\Users\OMEN\Desktop\platzi\c#\arreglos\bin\Debug\net6.0\arreglos.runtimeconfig.json
+D:\Users\OMEN\Desktop\platzi\c#\arreglos\bin\Debug\net6.0\arreglos.dll
+D:\Users\OMEN\Desktop\platzi\c#\arreglos\bin\Debug\net6.0\ref\arreglos.dll
+D:\Users\OMEN\Desktop\platzi\c#\arreglos\bin\Debug\net6.0\arreglos.pdb
+D:\Users\OMEN\Desktop\platzi\c#\arreglos\obj\Debug\net6.0\arreglos.dll
+D:\Users\OMEN\Desktop\platzi\c#\arreglos\obj\Debug\net6.0\ref\arreglos.dll
+D:\Users\OMEN\Desktop\platzi\c#\arreglos\obj\Debug\net6.0\arreglos.pdb
+D:\Users\OMEN\Desktop\platzi\c#\arreglos\obj\Debug\net6.0\arreglos.genruntimeconfig.cache

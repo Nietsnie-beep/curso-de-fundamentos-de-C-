@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24e3aee0-8e35-41bc-b837-2a0d010ffbad": {
+      "ProjectGuid": "24e3aee0-8e35-41bc-b837-2a0d010ffbad",
+      "DisplayName": "hello_grafico",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

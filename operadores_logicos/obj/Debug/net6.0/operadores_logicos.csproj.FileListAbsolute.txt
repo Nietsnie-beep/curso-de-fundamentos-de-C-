@@ -1,0 +1,15 @@
+D:\Users\OMEN\Desktop\platzi\c#\operadores_logicos\bin\Debug\net6.0\operadores_logicos.exe
+D:\Users\OMEN\Desktop\platzi\c#\operadores_logicos\bin\Debug\net6.0\operadores_logicos.deps.json
+D:\Users\OMEN\Desktop\platzi\c#\operadores_logicos\bin\Debug\net6.0\operadores_logicos.runtimeconfig.json
+D:\Users\OMEN\Desktop\platzi\c#\operadores_logicos\bin\Debug\net6.0\operadores_logicos.dll
+D:\Users\OMEN\Desktop\platzi\c#\operadores_logicos\bin\Debug\net6.0\ref\operadores_logicos.dll
+D:\Users\OMEN\Desktop\platzi\c#\operadores_logicos\bin\Debug\net6.0\operadores_logicos.pdb
+D:\Users\OMEN\Desktop\platzi\c#\operadores_logicos\obj\Debug\net6.0\operadores_logicos.csproj.AssemblyReference.cache
+D:\Users\OMEN\Desktop\platzi\c#\operadores_logicos\obj\Debug\net6.0\operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\OMEN\Desktop\platzi\c#\operadores_logicos\obj\Debug\net6.0\operadores_logicos.AssemblyInfoInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\operadores_logicos\obj\Debug\net6.0\operadores_logicos.AssemblyInfo.cs
+D:\Users\OMEN\Desktop\platzi\c#\operadores_logicos\obj\Debug\net6.0\operadores_logicos.csproj.CoreCompileInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\operadores_logicos\obj\Debug\net6.0\operadores_logicos.dll
+D:\Users\OMEN\Desktop\platzi\c#\operadores_logicos\obj\Debug\net6.0\ref\operadores_logicos.dll
+D:\Users\OMEN\Desktop\platzi\c#\operadores_logicos\obj\Debug\net6.0\operadores_logicos.pdb
+D:\Users\OMEN\Desktop\platzi\c#\operadores_logicos\obj\Debug\net6.0\operadores_logicos.genruntimeconfig.cache

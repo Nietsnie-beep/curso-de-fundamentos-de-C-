@@ -1,0 +1,14 @@
+D:\Users\OMEN\Desktop\platzi\c#\restaurantTablesReservationSystem\bin\Debug\net6.0\restaurantTablesReservationSystem.exe
+D:\Users\OMEN\Desktop\platzi\c#\restaurantTablesReservationSystem\bin\Debug\net6.0\restaurantTablesReservationSystem.deps.json
+D:\Users\OMEN\Desktop\platzi\c#\restaurantTablesReservationSystem\bin\Debug\net6.0\restaurantTablesReservationSystem.runtimeconfig.json
+D:\Users\OMEN\Desktop\platzi\c#\restaurantTablesReservationSystem\bin\Debug\net6.0\restaurantTablesReservationSystem.dll
+D:\Users\OMEN\Desktop\platzi\c#\restaurantTablesReservationSystem\bin\Debug\net6.0\ref\restaurantTablesReservationSystem.dll
+D:\Users\OMEN\Desktop\platzi\c#\restaurantTablesReservationSystem\bin\Debug\net6.0\restaurantTablesReservationSystem.pdb
+D:\Users\OMEN\Desktop\platzi\c#\restaurantTablesReservationSystem\obj\Debug\net6.0\restaurantTablesReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\OMEN\Desktop\platzi\c#\restaurantTablesReservationSystem\obj\Debug\net6.0\restaurantTablesReservationSystem.AssemblyInfoInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\restaurantTablesReservationSystem\obj\Debug\net6.0\restaurantTablesReservationSystem.AssemblyInfo.cs
+D:\Users\OMEN\Desktop\platzi\c#\restaurantTablesReservationSystem\obj\Debug\net6.0\restaurantTablesReservationSystem.csproj.CoreCompileInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\restaurantTablesReservationSystem\obj\Debug\net6.0\restaurantTablesReservationSystem.dll
+D:\Users\OMEN\Desktop\platzi\c#\restaurantTablesReservationSystem\obj\Debug\net6.0\ref\restaurantTablesReservationSystem.dll
+D:\Users\OMEN\Desktop\platzi\c#\restaurantTablesReservationSystem\obj\Debug\net6.0\restaurantTablesReservationSystem.pdb
+D:\Users\OMEN\Desktop\platzi\c#\restaurantTablesReservationSystem\obj\Debug\net6.0\restaurantTablesReservationSystem.genruntimeconfig.cache

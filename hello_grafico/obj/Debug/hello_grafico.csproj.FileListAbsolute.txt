@@ -1,0 +1,16 @@
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\bin\Debug\hello_grafico.exe.config
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\bin\Debug\hello_grafico.exe
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\bin\Debug\hello_grafico.pdb
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\obj\Debug\hello_grafico.csproj.AssemblyReference.cache
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\obj\Debug\hello_grafico.csproj.SuggestedBindingRedirects.cache
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\obj\Debug\MainWindow.g.cs
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\obj\Debug\App.g.cs
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\obj\Debug\hello_grafico_MarkupCompile.cache
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\obj\Debug\hello_grafico_MarkupCompile.lref
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\obj\Debug\MainWindow.baml
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\obj\Debug\hello_grafico.g.resources
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\obj\Debug\hello_grafico.Properties.Resources.resources
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\obj\Debug\hello_grafico.csproj.GenerateResource.cache
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\obj\Debug\hello_grafico.csproj.CoreCompileInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\obj\Debug\hello_grafico.exe
+D:\Users\OMEN\Desktop\platzi\c#\hello_grafico\obj\Debug\hello_grafico.pdb

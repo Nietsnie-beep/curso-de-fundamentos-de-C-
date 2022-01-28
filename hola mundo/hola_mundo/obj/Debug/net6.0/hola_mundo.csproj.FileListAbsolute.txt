@@ -1,0 +1,15 @@
+D:\Users\OMEN\Desktop\platzi\c#\hola mundo\hola_mundo\bin\Debug\net6.0\hola_mundo.exe
+D:\Users\OMEN\Desktop\platzi\c#\hola mundo\hola_mundo\bin\Debug\net6.0\hola_mundo.deps.json
+D:\Users\OMEN\Desktop\platzi\c#\hola mundo\hola_mundo\bin\Debug\net6.0\hola_mundo.runtimeconfig.json
+D:\Users\OMEN\Desktop\platzi\c#\hola mundo\hola_mundo\bin\Debug\net6.0\hola_mundo.dll
+D:\Users\OMEN\Desktop\platzi\c#\hola mundo\hola_mundo\bin\Debug\net6.0\ref\hola_mundo.dll
+D:\Users\OMEN\Desktop\platzi\c#\hola mundo\hola_mundo\bin\Debug\net6.0\hola_mundo.pdb
+D:\Users\OMEN\Desktop\platzi\c#\hola mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.csproj.AssemblyReference.cache
+D:\Users\OMEN\Desktop\platzi\c#\hola mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\OMEN\Desktop\platzi\c#\hola mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.AssemblyInfoInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\hola mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.AssemblyInfo.cs
+D:\Users\OMEN\Desktop\platzi\c#\hola mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.csproj.CoreCompileInputs.cache
+D:\Users\OMEN\Desktop\platzi\c#\hola mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.dll
+D:\Users\OMEN\Desktop\platzi\c#\hola mundo\hola_mundo\obj\Debug\net6.0\ref\hola_mundo.dll
+D:\Users\OMEN\Desktop\platzi\c#\hola mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.pdb
+D:\Users\OMEN\Desktop\platzi\c#\hola mundo\hola_mundo\obj\Debug\net6.0\hola_mundo.genruntimeconfig.cache
